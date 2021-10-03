@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+h1,h2{
+    position: static;
+    padding-left: 28%;
+    font-size: 3em;
+}
+
+p{
+    position: relative;
+    text-align: justify;
+    padding: 10%;
+    padding-left: 44%;
+    font-size: 2em;
+}
