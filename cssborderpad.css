@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+h1{
+    font-family: Georgia, “Times New Roman”, serif;
+    padding: 3em;
+    border: outset;
+    background-color:sandybrown;
+}
+
+h2 {
+    border: solid;
+}
+
+h1,h2 {
+    text-align: center;
+}

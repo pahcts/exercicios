@@ -1,0 +1,18 @@
+@charset "utf-8";
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+.esquerda{
+    float: left;
+    background: silver;
+    font-size: 10em;
+}
+.direita{
+    float: right;
+    background: gold;
+    font-size: 10em;
+}

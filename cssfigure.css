@@ -1,0 +1,25 @@
+@charset "utf-8";
+body{
+    background-color: indianred;
+}
+
+h1{
+    text-align: center;
+}
+img {
+    height: 560px;
+    width: 700px;
+}
+
+figure {
+    width: 700px;
+    padding: 1px;
+    border: solid;
+    border-color: lavender;
+}
+
+figcaption {
+    text-size-adjust: 2em;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    } 
